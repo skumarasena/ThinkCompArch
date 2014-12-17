@@ -1,0 +1,11 @@
+This is the "Test Benches" example where we tested a working one-bit adder and two broken
+one-bit adders.
+
+INSTRUCTIONS:
+First, save the brokenadders.v file and the dobroken.do file. This file is configured for 
+the functional adder. If you'd like to change the file to test one of the broken adders, 
+uncomment one of the lines in the test bench as indicated.
+
+Now if you want to run this code, type "do dobroken.do" into ModelSim's Transcript window, 
+and run it by pressing Enter. You should see the results of the test show up in the Transcript 
+window.

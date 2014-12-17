@@ -1,0 +1,11 @@
+This is the "countingClocks" example from "Think Verilog" where we looked at an example of an
+always block and used it to count positive edges of a clock signal.
+
+INSTRUCTIONS:
+First, save the always.v file and the doalways.do file. Note that this file is configured to 
+test non-blocking assignment. If you'd like to test blocking assignment, uncomment the indicated
+lines in the always.v file.
+
+Now if you want to run this code, type "do doalways.do" into ModelSim's Transcript window, 
+and run it by pressing Enter. You should see the results of the test show up in the Transcript 
+window, and the waveform should pop up in the main window.

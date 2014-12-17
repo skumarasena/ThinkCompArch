@@ -1,0 +1,12 @@
+This is the "Behavioral vs. Structural" example from "Think Verilog" where we looked at a 
+circuit diagram and simulated its behavior in both Structural Verilog and Behavioral Verilog.
+
+INSTRUCTIONS:
+First, save the gates.v file and the dogates.do file. Note that this file is configured to 
+test the "structuralGates" module. If you'd like to test the ``behavioralGates" module, 
+look at the ``testGates" module, uncomment the behavioralGates initialization, and comment
+ the structuralGates initialization.
+
+Now if you want to run this code, type "do dogates.do" into ModelSim's Transcript window, 
+and run it by pressing Enter. You should see the results of the test show up in the Transcript 
+window.
